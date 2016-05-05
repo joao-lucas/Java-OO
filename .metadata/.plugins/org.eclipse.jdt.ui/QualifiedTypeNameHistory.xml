@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Pessoa"/>
+<fullyQualifiedTypeName name="Vampiro"/>
+<fullyQualifiedTypeName name="Veiculo"/>
+<fullyQualifiedTypeName name="Bicicleta"/>
+<fullyQualifiedTypeName name="Funcionario"/>
+<fullyQualifiedTypeName name="Autenticavel"/>
+<fullyQualifiedTypeName name="Gerente"/>
+<fullyQualifiedTypeName name="Recipiente"/>
+<fullyQualifiedTypeName name="Substancia"/>
+</qualifiedTypeNameHistroy>

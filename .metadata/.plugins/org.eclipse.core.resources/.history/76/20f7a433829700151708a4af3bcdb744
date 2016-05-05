@@ -1,0 +1,11 @@
+
+public class Teste {
+
+	public static void main(String[] args) {
+		Recipiente r = new Recipiente();
+		
+		r.adicionar(1000);
+
+	}
+
+}

@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class NumeroComplexo {
+	double imaginario, real;
+	
+	public void inicializaNumero(double real, double imag){
+		this.real = real;
+		
+	}
+}

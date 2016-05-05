@@ -1,0 +1,11 @@
+
+public class Recipiente {
+	double capacidade;
+	double quantidade;
+	
+	public boolean adicionar(double qtd){
+		
+		
+		return true;
+	}
+}

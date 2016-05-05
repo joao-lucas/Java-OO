@@ -1,0 +1,7 @@
+
+public class NumeroComplexo {
+	
+	public void inicializaNumero(double real, double imaginario){
+		
+	}
+}

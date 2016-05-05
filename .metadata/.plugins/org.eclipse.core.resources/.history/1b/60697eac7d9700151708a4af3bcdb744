@@ -1,0 +1,12 @@
+
+public class Recipiente {
+	double capacidade;
+	double quantidade;
+
+	public boolean adicionar(double qtd) {
+		
+		this.quantidade = quantidade + qtd;
+		System.out.println("Quantidade: " + this.quantidade);
+		return true;
+	}
+}

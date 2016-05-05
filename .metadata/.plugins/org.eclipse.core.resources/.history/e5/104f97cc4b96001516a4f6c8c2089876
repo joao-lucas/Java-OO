@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class NumeroComplexo {
+	double imaginario, real;
+
+	public void inicializaNumero(double r, double i) {
+		this.real = r;
+		this.imaginario = i;
+	}
+
+	public void imprimeNumero() {
+		System.out.println(this.real + " a" + " +" + this.imaginario + "i");
+	}
+}
